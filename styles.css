@@ -12,6 +12,9 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   letter-spacing: 5px;
+  padding: 0px;
+  margin:0;
+  border:0px;
 }
 p{
   text-align:center;
